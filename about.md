@@ -5,9 +5,9 @@ title: About
 
 # Experience
 
-* **Internship**: Applied Scientist at **VinBrain**: Part-time - Ha Noi, Vietnam - 02/2021 - 09/2021 (9 months)
-* **Internship**: AI engineering at **VinBigdata**: Part-time - Ha Noi, Vietnam - 02/2021 - 06/2022 (6 months)
-* **AI-engineering**: AI engineering at **VinBigdata**: Full-time - Ha Noi, Vietnam - 06/2022 - Present.(2 yrs)
+* **Internship**: Applied Scientist at **VinBrain**: Part-time - Ha Noi, Vietnam - 02/2021 - 09/2021
+* **Internship**: AI engineering at **VinBigdata**: Part-time - Ha Noi, Vietnam - 09/2021 - 06/2022
+* **AI-engineering**: AI engineering at **VinBigdata**: Full-time - Ha Noi, Vietnam - 06/2022 - Present
 
 
 # Education 
