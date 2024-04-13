@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Introduce
+# About me
 
 My name is **Nguyen Van Tue** (Tue is my last name), and I am an AI-engineer at VinBigdata. My research & engineering interests are mainly in the areas of deeplearning, especially **Nature-langugage and Speech Processing**. 
 
@@ -14,7 +14,7 @@ For more information about me please refer to [this]({% link about.md %}), and w
 And also about my articles, please refer to [posts]({% link content.md %}).
 
 
-# Content of the site
+# About the site
 
 I want to share my experiments on some main theories:
 
@@ -29,7 +29,12 @@ Also for AI-enginnering:
 2. Stabilizing & enhancing the performance of the AI model API: Triton serving.
 3. Optimizing models for on-device deployment (e.g., low-resources).
 
+Finally, I want record my personal achievements.
+
+
 Actually, I recognize the importance of networking and building connections within the data science community, and sharing knowledge is definitely one of the most important ways to establish oneself.
+
+# News & Updates
 
 
 # Note 
@@ -40,3 +45,5 @@ Currently, I have just created this blog and  also have cloned the template web-
 I will update my blog soon.
 
 last-update: 13/04/2024-1604
+
+
