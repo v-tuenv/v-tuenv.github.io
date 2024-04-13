@@ -11,6 +11,12 @@ Before I joined VinBigdata, I graduated from the **Post and telecommunication in
 
 For more information about me please refer to [this]({% link about.md %}), and welcome to my blog.
 
+Currently, I have just created this blog and I also clone the template web-page from [phamdinhkhanh.github.io](https://github.com/phamdinhkhanh/phamdinhkhanh.github.io). So perhaps there are some duplicate contents which I missed to delete from the old-branch. 
+
+I will update my blog soon.
+
+
 And also about my articles, please refer to [posts]({% link content.md %}).
+
 
 
